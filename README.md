@@ -7,15 +7,15 @@ The project is designed to practice basic frontend development skills such as DO
 ---
 
 ## Features
-- 🎮 Play against computer  
-- ⚡ Instant result display  
-- 🧠 Random computer choice generation  
-- 🏆 Win / Lose / Draw system  
-- 📱 Simple and responsive UI  
+- Play against computer  
+- Instant result display  
+- Random computer choice generation  
+- Win / Lose / Draw system  
+- Simple and responsive UI  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML  
 - CSS  
 - JavaScript  
